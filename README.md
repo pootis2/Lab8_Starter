@@ -7,4 +7,4 @@ Chengtao Wu
    
 3. **No**, because the message feature interacts with other features in the application, so it cannot be unit tested. End to end test would be better when testing the message feature.
    
-4. **Yes**, because the max message length feature is not closely connected to other features in the application, so it can be unit tested.
+4. **Yes**, because the max message length feature does not closely interact with other features in the application, so it can be unit tested.
